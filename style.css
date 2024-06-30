@@ -3,9 +3,11 @@
 }
 body{
     background-color: powderblue;
-}body{
-    background-color: pink;
 }
 #para{
     color: blue;
+}
+form{
+    border: none;
+    width: 450px;
 }
