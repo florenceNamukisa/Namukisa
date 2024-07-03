@@ -4,9 +4,10 @@
 body{
     background-color: powderblue;
 }
-#para{
-    color: blue;
+#para1{
+    color: yellow;
 }
+
 form{
     border: none;
     width: 450px;
